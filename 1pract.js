@@ -5,4 +5,4 @@ const product={
 
     price:270,
 };
-console.log(product);
+console.log(product);//project on object  git push -u origin main

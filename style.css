@@ -1,0 +1,11 @@
+.heading{
+    background-color:pink;
+    text-decoration: overline;
+}
+body{
+    background-color: aquamarine;
+}
+button{
+    background-color: chartreuse;
+    color:brown;
+}
